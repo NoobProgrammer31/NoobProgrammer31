@@ -1,5 +1,5 @@
+NoobProgrammer31 here ! Currently busy in honing my Rust Skills
 <!--START_SECTION:waka-->
-Hello Everyone ! This is Akshay Sharma
 
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
