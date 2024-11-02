@@ -2,8 +2,10 @@
 <!--START_SECTION:waka-->
 👾 **NoobProgrammer31 here!** 🚀 Currently busy honing my ⚙️ **Rust** skills 🔥
 
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobProgrammer31&show_icons=true&theme=radical)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
