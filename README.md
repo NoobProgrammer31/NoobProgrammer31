@@ -1,6 +1,6 @@
-NoobProgrammer31 here ! Currently busy in honing my Rust Skills
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+👾 **NoobProgrammer31 here!** 🚀 Currently busy honing my ⚙️ **Rust** skills 🔥
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 
