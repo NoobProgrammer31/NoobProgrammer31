@@ -6,7 +6,9 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 
-![snake gif](https://github.com/NoobProgrammer31/NoobProgrammer31/blob/output/github-contribution-grid-snake.gif)
+### 💻 Languages & Tools
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
