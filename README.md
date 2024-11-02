@@ -1,27 +1,14 @@
 
 <!--START_SECTION:waka-->
-👾 **NoobProgrammer31 here!** 🚀 Currently busy honing my ⚙️ **Rust** skills 🔥
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobProgrammer31&show_icons=true&theme=radical)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
-
-### 💻 Languages & Tools
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4479A1?style=for-the-badge&logo=linux&logoColor=white)
-
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2024
+> 🏆 58 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +19,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-🌆 Daytime                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌃 Evening                22 commits          ████████████░░░░░░░░░░░░░   48.89 % 
-🌙 Night                  17 commits          █████████░░░░░░░░░░░░░░░░   37.78 % 
+🌞 Morning                10 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+🌆 Daytime                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+🌃 Evening                22 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  17 commits          ████████░░░░░░░░░░░░░░░░░   30.91 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Friday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Saturday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Tuesday                  8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Thursday                 8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   8 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Saturday                 18 commits          ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
@@ -84,5 +71,5 @@ Makefile                 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NoobProgrammer31/NoobProgrammer31/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 06:07:11 UTC
+ Last Updated on 02/11/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
