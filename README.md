@@ -9,6 +9,10 @@
 ### 💻 Languages & Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4479A1?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
