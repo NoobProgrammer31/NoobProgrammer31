@@ -8,7 +8,7 @@
 
 ### 💻 Languages & Tools
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Neovim]([https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge))
 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
