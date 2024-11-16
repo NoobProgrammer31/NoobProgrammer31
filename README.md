@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,5 +69,5 @@ Makefile                 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NoobProgrammer31/NoobProgrammer31/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:42:59 UTC
+ Last Updated on 16/11/2024 18:40:34 UTC
 <!--END_SECTION:waka-->
