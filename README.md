@@ -8,6 +8,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 58 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -69,5 +71,5 @@ Makefile                 1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/NoobProgrammer31/NoobProgrammer31/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:43:19 UTC
+ Last Updated on 30/11/2024 18:41:41 UTC
 <!--END_SECTION:waka-->
